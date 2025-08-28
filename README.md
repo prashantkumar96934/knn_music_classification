@@ -33,8 +33,7 @@ pip install numpy pandas scikit-learn matplotlib seaborn
 🚀 Usage
 	1.	Clone the repository:
 
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+(https://github.com/prashantkumar96934/knn_music_classification)
 
 
 	2.	Open the notebook:
